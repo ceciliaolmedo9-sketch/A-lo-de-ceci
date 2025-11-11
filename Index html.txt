@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mi primera web</title>
+    <style>
+      body { font-family: Arial; background-color: #f5f5f5; text-align: center; }
+      h1 { color: #333; }
+    </style>
+  </head>
+  <body>
+    <h1>Hola, soy Tomás</h1>
+    <p>Esta es mi primera página web 🎉</p>
+  </body>
+</html>
